@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 // import 'package:trivia_app/main.dart';
-import 'package:trivia_app/pages/landing_page.dart';
+import '../lib/pages/landing_page.dart';
 
 
 
